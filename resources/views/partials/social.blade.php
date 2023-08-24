@@ -6,27 +6,15 @@
         <div class="column">
             <ul class="social-list">
                 <li class="social-list__item">
-                    <a href="#0" title="">
+                    <a href="https://www.facebook.com/groups/107554519297925" title="">
                         <span class="social-list__icon social-list__icon--facebook"></span>
                         <span class="social-list__text">Facebook</span>
                     </a>
                 </li>
                 <li class="social-list__item">
-                    <a href="" title="">
-                        <span class="social-list__icon social-list__icon--twitter"></span>
-                        <span class="social-list__text">Twitter</span>
-                    </a>
-                </li>
-                <li class="social-list__item">
-                    <a href="#0" title="">
-                        <span class="social-list__icon social-list__icon--instagram"></span>
-                        <span class="social-list__text">Instagram</span>
-                    </a>
-                </li>
-                <li class="social-list__item">
-                    <a href="#0" title="">
-                        <span class="social-list__icon social-list__icon--email"></span>
-                        <span class="social-list__text">Email</span>
+                    <a href="https://www.youtube.com/@descultimedia/featured" title="">
+                        <span class="social-list__icon social-list__icon--youtube"></span>
+                        <span class="social-list__text">YouTube</span>
                     </a>
                 </li>
             </ul>

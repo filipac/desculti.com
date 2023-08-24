@@ -3056,6 +3056,10 @@ html.no-csstransitions .hero-content {
   background-image: url(../../public/images/icons/social/icon-twitter.svg);
 }
 
+.social-list__icon--youtube::before {
+  background-image: url(../../public/images/icons/social/youtube-music-svgrepo-com.svg);
+}
+
 .social-list__icon--instagram::before {
   background-image: url(../../public/images/icons/social/icon-instagram.svg);
 }
