@@ -3,6 +3,32 @@
 <section id="about" class="s-about">
 
     <div class="row row-y-center about-content">
+        <div class="column">
+            <h3 class="subhead">Inregistrarile Desculti 2023</h3>
+        <div class="grid grid-cols-1 lg:grid-cols-2 w-full gap-4 items-center justify-center">
+            <div>
+                <x-video id="nABu68SYjdI" title="Desculți Homecoming 2023 - Vineri Sesiunea 1" />
+            </div>
+            <div class="mt-0 lg:mt-4">
+                <x-video id="mV28T7jtwTo" title="Desculți Homecoming 2023 - Sambata Sesiunea 2" />
+            </div>
+            <div class="mt-0 lg:mt-4">
+                <x-video id="p8SUY6lBdIM" title="Desculți Homecoming 2023 - Sambata Sesiunea 3" />
+            </div>
+            <div class="mt-0 lg:mt-4">
+                <x-video id="fAR-IoW7ZJY" title="Desculți Homecoming 2023 - Sambata Sesiunea 4" />
+            </div>
+            <div class="mt-0 lg:mt-4">
+                <x-video id="k8_uGXvCdG8" title="Desculți Homecoming 2023 - Duminica Sesiunea 5" />
+            </div>
+            <div class="mt-0 lg:mt-4">
+                <x-video id="rjcBsxKUEDg" title="Desculți Homecoming 2023 - Special" />
+            </div>
+        </div>
+        </div>
+    </div>
+
+    {{-- <div class="row row-y-center about-content">
 
         <div class="column large-half medium-full">
             <h3 class="subhead">Bine ati venit la Desculti</h3>
@@ -55,6 +81,6 @@
             </ul> <!-- end about-sched-->
         </div>
 
-    </div> <!-- end about-content -->
+    </div> <!-- end about-content --> --}}
 
 </section> <!-- end s-about -->
