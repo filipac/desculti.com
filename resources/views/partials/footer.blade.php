@@ -10,13 +10,13 @@
                 </a>
             </div>  <!-- footer-logo -->
             <p>
-                ,,Desculți“ nu este un eveniment, un program, ci o stare de spirit. O ai sau n-o ai. Asta este! Dacă n-o ai, mai ai o șansă: să te contaminze cei care o au, adică să vii la Hickory și să stai trei zile cu cei de aici.
+                „Desculți Homecoming” nu este un eveniment sau un program, ci o stare de spirit. O ai sau nu o ai. Asta este! Dacă nu o ai, mai există o șansă: să fii contaminat de cei care o au, adică să vii la Hickory și să petreci trei zile alături de cei de aici.
             </p>
         </div>
         <div class="column large-half tab-full">
             <div class="row">
                 <div class="column large-7 medium-full">
-                    <h4 class="h6">Locatia bisericii</h4>
+                    <h4 class="h6">Church Location</h4>
                     <p>
                         1751 Wallace Dairy Rd<br/>
                         Hickory, NC <br />
@@ -35,7 +35,7 @@
                         <li><a href="/">Home</a></li>
                         <li><a href="https://www.facebook.com/groups/107554519297925">Facebook</a></li>
                         <li><a href="https://www.youtube.com/@descultimedia/featured">YouTube</a></li>
-                        <li><a href="https://romanianbaptist.church">Romanian Baptist Church Hickory</a></li>
+                        <li><a href="https://romanianbaptist.church">Hickory Romanian Baptist Church</a></li>
                     </ul>
                 </div>
             </div>
@@ -44,7 +44,7 @@
 
     <div class="row footer-bottom">
         <div class="column ss-copyright">
-            <span>© Copyright Desculti Media {{ \Carbon\Carbon::now()->year }}</span>
+            <span>© Copyright Desculti Media 2024 {{ \Carbon\Carbon::now()->year }}</span>
             <span>Website by <a href="https://pacurar.dev">Filip Pacurar</a></span>
         </div>
     </div> <!-- footer-bottom -->
