@@ -33,48 +33,49 @@
         <div class="column large-half medium-full">
             <h3 class="subhead">Bine ati venit la Desculti</h3>
             <p class="lead">
-                “Desculti” Romanian Homecoming, grup de evanghelici romani din diaspora si din Romania in partasie crestina,
-                “in spatiul virtual”, prin rugaciune, comunicarea unor experiente spirituale, meditatii si grup de suport
-                pentru cei cu probleme speciale. Acest grup se intalneste “in spatiul real” la Hickory N.C, SUA pentru
-                trei zile de cantare, rugaciune, poezie. Intodeuna subiectul nostru este acelasi:
-                “Domnul in mijlocul cantarii si a laudei”.
+                „Desculți Homecoming” este un grup de evanghelici români, atât din diaspora, cât și din România,
+                care se adună pentru părtășie creștină. Ei se întâlnesc „în spațiul virtual” prin rugăciune,
+                împărtășirea experiențelor spirituale, meditații și oferă suport pentru cei care se confruntă
+                cu probleme speciale. Periodic, grupul se reunește „în spațiul real” la Hickory, Carolina de Nord,
+                SUA, pentru trei zile dedicate cântării, rugăciunii și poeziei. În centrul fiecărei întâlniri
+                se află un singur subiect constant: "Domnul, prezent în mijlocul laudelor și cântărilor."
             </p>
         </div>
 
         <div class="column large-half medium-full">
             <ul class="about-sched">
                 <li>
-                    <h4>Intalnirea de vineri</h4>
+                    <h4>Sesiunea de Vineri</h4>
                     <p>
-                        Vineri, 6 OCT 2023 - 6:00 PM <br>
+                        Vineri, 11 OCT 2024 - 6:00 PM <br>
                         1751 Wallace Dairy Rd, Hickory, NC 28602, USA
                     </p>
                 </li>
                 <li>
-                    <h4>Intalnirea de sambata dimineata</h4>
+                    <h4>Sâmbătă - Sesiunea I</h4>
                     <p>
-                        Sambata, 7 OCT 2023 - 10:00 AM <br>
+                        Sambata, 12 OCT 2024 - 10:00 AM <br>
                         1751 Wallace Dairy Rd, Hickory, NC 28602, USA
                     </p>
                 </li>
                 <li>
-                    <h4>Youth service</h4>
+                    <h4>Sâmbătă - Sesiunea II</h4>
                     <p>
-                        Sambata, 7 OCT 2023 - 1:30 PM <br>
+                        Sambata, 12 OCT 2024 - 13:30 PM <br>
                         1751 Wallace Dairy Rd, Hickory, NC 28602, USA
                     </p>
                 </li>
                 <li>
-                    <h4>Intalnirea de sambata seara</h4>
+                    <h4>Sâmbătă - Sesiunea III</h4>
                     <p>
-                        Sambata, 7 OCT 2023 - 4:00 PM <br>
+                        Sambata, 12 OCT 2024 - 4:00 PM <br>
                         1751 Wallace Dairy Rd, Hickory, NC 28602, USA
                     </p>
                 </li>
                 <li>
-                    <h4>Serviciul divin de Duminica</h4>
+                    <h4>Duminică - Serviciu Divin</h4>
                     <p>
-                        Duminica, 8 OCT 2023 - 10:00 AM & 6:00 PM <br>
+                        Duminica, 13 OCT 2024 - 10:00 AM & 6:00 PM <br>
                         1751 Wallace Dairy Rd, Hickory, NC 28602, USA
                     </p>
                 </li>
