@@ -22,7 +22,7 @@
                 </h1>
 
                 <div class="hero-content__buttons">
-                    <a href="https://www.facebook.com/events/856455279435959" target="_blank" class="btn btn--stroke">Facebook Event</a>
+                    <a href="https://www.facebook.com/events/1211900803346422" target="_blank" class="btn btn--stroke">Facebook Event</a>
                     <a href="#" id="aboutTheEvent" class="btn btn--stroke">About the event</a>
                 </div>
             </div> <!-- end hero-content__text -->
