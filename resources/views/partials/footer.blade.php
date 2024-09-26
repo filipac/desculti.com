@@ -44,7 +44,7 @@
 
     <div class="row footer-bottom">
         <div class="column ss-copyright">
-            <span>© Copyright Desculti Media 2024 {{ \Carbon\Carbon::now()->year }}</span>
+            <span>© Copyright Desculti Media {{ \Carbon\Carbon::now()->year }}</span>
             <span>Website by <a href="https://pacurar.dev">Filip Pacurar</a></span>
         </div>
     </div> <!-- footer-bottom -->

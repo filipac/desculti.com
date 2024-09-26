@@ -28,7 +28,7 @@
         </div>
     </div>
 
-    {{-- <div class="row row-y-center about-content">
+    <div class="row row-y-center about-content">
 
         <div class="column large-half medium-full">
             <h3 class="subhead">Bine ati venit la Desculti</h3>
@@ -82,6 +82,6 @@
             </ul> <!-- end about-sched-->
         </div>
 
-    </div> <!-- end about-content --> --}}
+    </div> <!-- end about-content -->
 
 </section> <!-- end s-about -->
