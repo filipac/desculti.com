@@ -1,4 +1,4 @@
-<x-layout title="Desculți Homecoming 2024 - Homepage">
+<x-layout title="Desculți Homecoming 2025 - Homepage">
 
 
     <!-- header
