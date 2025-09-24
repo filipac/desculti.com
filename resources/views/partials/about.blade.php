@@ -5,7 +5,7 @@
     <div class="row row-y-center about-content">
 
         <div class="column large-half medium-full">
-            <h3 class="subhead" style="font-size: 2.5rem; font-weight: bold;">Bine ați venit la<br/>Desculți Homecoming 2025</h3>
+            <h3 class="subhead" style="font-size: 3rem; font-weight: bold;">Bine ați venit la<br/>Desculți Homecoming 2025</h3>
             <p class="lead">
                 „Desculți Homecoming" suntem noi, un grup de evanghelici români din diaspora și din România, care ne adunăm pentru părtășie creștină. Ne întâlnim „în spațiul virtual" prin rugăciune, împărtășirea experiențelor spirituale, meditații și prin sprijin oferit celor aflați în încercări speciale. 
             </p>
@@ -58,7 +58,7 @@
 
     <div class="row row-y-center about-content mt-12">
         <div class="column">
-            <h3 class="subhead" style="font-size: 2.5rem; font-weight: bold;">Desculți Homecoming 2024</h3>
+            <h3 class="subhead" style="font-size: 3rem; font-weight: bold;">Desculți Homecoming 2024</h3>
         <div class="grid grid-cols-1 lg:grid-cols-3 w-full gap-4 items-center justify-center">
             <div>
                 <x-video id="eOLemOiVU_c" title="Sesiunea 1 - Vineri" />
@@ -85,7 +85,7 @@
      <p>
      <div class="row row-y-center about-content mt-12" style="margin-top: 6rem;">
          <div class="column">
-             <h3 class="subhead" style="font-size: 2.5rem; font-weight: bold;">Desculți Homecoming 2023</h3>
+             <h3 class="subhead" style="font-size: 3rem; font-weight: bold;">Desculți Homecoming 2023</h3>
         <div class="grid grid-cols-1 lg:grid-cols-3 w-full gap-4 items-center justify-center">
             <div>
                 <x-video id="nABu68SYjdI" title="Sesiunea 1 - Vineri" />
