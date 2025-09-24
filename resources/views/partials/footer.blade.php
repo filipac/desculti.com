@@ -33,7 +33,10 @@
                     <h4 class="h6">Quick Links</h4>
                     <ul class="footer-list">
                         <li><a href="/">Home</a></li>
-                        <li><a href="https://www.facebook.com/groups/107554519297925">Facebook</a></li>
+                        
+                        <li><a href="https://www.facebook.com/groups/107554519297925">Facebook Group</a></li>
+                        <li><a href="https://www.facebook.com/events/1308732084031208">Facebook Event</a></li>
+                        <li><a href="https://www.facebook.com/descultimedia">Facebook Page</a></li>
                         <li><a href="https://www.youtube.com/@descultimedia/featured">YouTube</a></li>
                         <li><a href="https://romanianbaptist.church">Hickory Romanian Baptist Church</a></li>
                     </ul>

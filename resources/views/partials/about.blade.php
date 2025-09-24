@@ -1,18 +1,16 @@
 <!-- about
     ================================================== -->
-<section id="about" class="s-about">
+<section id="about" class="s-about" style="background-color: #00294F;">
 
     <div class="row row-y-center about-content">
 
         <div class="column large-half medium-full">
-            <h3 class="subhead">Bine ati venit la Desculti</h3>
+            <h3 class="subhead" style="font-size: 2.5rem; font-weight: bold;">Bine ați venit la<br/>Desculți Homecoming 2025</h3>
             <p class="lead">
-                „Desculți Homecoming” este un grup de evanghelici români, atât din diaspora, cât și din România,
-                care se adună pentru părtășie creștină. Ei se întâlnesc „în spațiul virtual” prin rugăciune,
-                împărtășirea experiențelor spirituale, meditații și oferă suport pentru cei care se confruntă
-                cu probleme speciale. Periodic, grupul se reunește „în spațiul real” la Hickory, Carolina de Nord,
-                SUA, pentru trei zile dedicate cântării, rugăciunii și poeziei. În centrul fiecărei întâlniri
-                se află un singur subiect constant: "Domnul, prezent în mijlocul laudelor și cântărilor."
+                „Desculți Homecoming" suntem noi, un grup de evanghelici români din diaspora și din România, care ne adunăm pentru părtășie creștină. Ne întâlnim „în spațiul virtual" prin rugăciune, împărtășirea experiențelor spirituale, meditații și prin sprijin oferit celor aflați în încercări speciale. 
+            </p>
+            <p class="lead">
+                O dată pe an, de Columbus Day, ne bucurăm să fim împreună „în spațiul real", la Hickory, Carolina de Nord, pentru trei zile pline de cântare, rugăciune și poezie. În centrul fiecărei întâlniri rămâne mereu aceeași temă: Domnul, prezent în mijlocul laudelor și cântărilor noastre.
             </p>
         </div>
 
@@ -21,35 +19,35 @@
                 <li>
                     <h4>Sesiunea de Vineri</h4>
                     <p>
-                        Vineri, 11 OCT 2024 - 6:00 PM <br>
+                        Vineri, 10 OCT 2025 - 6:00 PM <br>
                         1751 Wallace Dairy Rd, Hickory, NC 28602, USA
                     </p>
                 </li>
                 <li>
                     <h4>Sâmbătă - Sesiunea I</h4>
                     <p>
-                        Sambata, 12 OCT 2024 - 10:00 AM <br>
+                        Sambata, 11 OCT 2025 - 10:00 AM <br>
                         1751 Wallace Dairy Rd, Hickory, NC 28602, USA
                     </p>
                 </li>
                 <li>
                     <h4>Sâmbătă - Sesiunea II</h4>
                     <p>
-                        Sambata, 12 OCT 2024 - 13:30 PM <br>
+                        Sambata, 11 OCT 2025 - 13:30 PM <br>
                         1751 Wallace Dairy Rd, Hickory, NC 28602, USA
                     </p>
                 </li>
                 <li>
                     <h4>Sâmbătă - Sesiunea III</h4>
                     <p>
-                        Sambata, 12 OCT 2024 - 4:00 PM <br>
+                        Sambata, 11 OCT 2025 - 4:00 PM <br>
                         1751 Wallace Dairy Rd, Hickory, NC 28602, USA
                     </p>
                 </li>
                 <li>
                     <h4>Duminică - Serviciu Divin</h4>
                     <p>
-                        Duminica, 13 OCT 2024 - 10:00 AM & 6:00 PM <br>
+                        Duminica, 12 OCT 2025 - 10:00 AM & 6:00 PM <br>
                         1751 Wallace Dairy Rd, Hickory, NC 28602, USA
                     </p>
                 </li>
@@ -60,25 +58,52 @@
 
     <div class="row row-y-center about-content mt-12">
         <div class="column">
-            <h3 class="subhead">Inregistrarile Desculti 2023</h3>
+            <h3 class="subhead" style="font-size: 2.5rem; font-weight: bold;">Desculți Homecoming 2024</h3>
         <div class="grid grid-cols-1 lg:grid-cols-2 w-full gap-4 items-center justify-center">
             <div>
-                <x-video id="nABu68SYjdI" title="Desculți Homecoming 2023 - Vineri Sesiunea 1" />
+                <x-video id="eOLemOiVU_c" title="Sesiunea 1 - Vineri" />
             </div>
             <div class="mt-0 lg:mt-4">
-                <x-video id="mV28T7jtwTo" title="Desculți Homecoming 2023 - Sambata Sesiunea 2" />
+                <x-video id="2gTHESiExPQ" title="Sesiunea 2 - Sambată" />
             </div>
             <div class="mt-0 lg:mt-4">
-                <x-video id="p8SUY6lBdIM" title="Desculți Homecoming 2023 - Sambata Sesiunea 3" />
+                <x-video id="N-uKgwk1b0I" title="Sesiunea 3 - Sambată" />
             </div>
             <div class="mt-0 lg:mt-4">
-                <x-video id="fAR-IoW7ZJY" title="Desculți Homecoming 2023 - Sambata Sesiunea 4" />
+                <x-video id="vWol8o3FnS4" title="Sesiunea 4 - Sambată" />
             </div>
             <div class="mt-0 lg:mt-4">
-                <x-video id="k8_uGXvCdG8" title="Desculți Homecoming 2023 - Duminica Sesiunea 5" />
+                <x-video id="N4_j4Ts1n9Y" title="Sesiunea 5 - Duminică" />
             </div>
             <div class="mt-0 lg:mt-4">
-                <x-video id="rjcBsxKUEDg" title="Desculți Homecoming 2023 - Special" />
+                <x-video id="WGCHWuFw_fI" title="Sesiunea Specială" />
+            </div>
+        </div>
+        </div>
+    </div>
+     <p>
+     <p>
+     <div class="row row-y-center about-content mt-12" style="margin-top: 6rem;">
+         <div class="column">
+             <h3 class="subhead" style="font-size: 2.5rem; font-weight: bold;">Desculți Homecoming 2023</h3>
+        <div class="grid grid-cols-1 lg:grid-cols-2 w-full gap-4 items-center justify-center">
+            <div>
+                <x-video id="nABu68SYjdI" title="Sesiunea 1 - Vineri" />
+            </div>
+            <div class="mt-0 lg:mt-4">
+                <x-video id="mV28T7jtwTo" title="Sesiunea 2 - Sambată" />
+            </div>
+            <div class="mt-0 lg:mt-4">
+                <x-video id="p8SUY6lBdIM" title="Sesiunea 3 - Sambată" />
+            </div>
+            <div class="mt-0 lg:mt-4">
+                <x-video id="fAR-IoW7ZJY" title="Sesiunea 4 - Sambată" />
+            </div>
+            <div class="mt-0 lg:mt-4">
+                <x-video id="k8_uGXvCdG8" title="Sesiunea 5 - Duminică" />
+            </div>
+            <div class="mt-0 lg:mt-4">
+                <x-video id="rjcBsxKUEDg" title="Sesiunea Specială" />
             </div>
         </div>
         </div>
