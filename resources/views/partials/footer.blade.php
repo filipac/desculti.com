@@ -1,12 +1,12 @@
 <!-- footer
     ================================================== -->
-<footer class="s-footer">
+<footer class="s-footer" style="background-color: #00294F;">
 
     <div class="row footer-top">
         <div class="column large-4 medium-5 tab-full">
             <div class="footer-logo">
-                <a class="site-footer-logo" href="index.html">
-                    <img src="/images/logo.png" alt="Homepage">
+                <a class="site-footer-logo" href="/">
+                    <img src="/images/logo.png?v={{ time() }}" alt="Homepage" style="max-width: 400px; height: auto; object-fit: contain; display: block;">
                 </a>
             </div>  <!-- footer-logo -->
             <p>
@@ -25,7 +25,12 @@
 
                     <p>
                         <a href="http://maps.google.com/maps?f=d&source=embed&hl=en&geocode=%3BCf7HXiz87mhxFRJvIAIdqocm-yEq9E6MX1aI8Q&q=hickory+romanian+baptist&sll=37.0625,-95.677068&sspn=40.545434,93.076172&ie=UTF8&cid=17404255728349148202&hq=hickory+romanian+baptist&hnear=&z=11&iwloc=A&daddr=1751+Wallace+Dairy+Road,+Hickory,+NC+28602+(ROMANIAN+BAPTIST+CHURCH)" target="_blank" class="btn btn--footer">
-                            Directii Google Maps
+                            Google Maps
+                        </a>
+                    </p>
+                    <p>
+                        <a href="https://maps.apple.com/?q=1751+Wallace+Dairy+Road,+Hickory,+NC+28602" target="_blank" class="btn btn--footer">
+                            Apple Maps
                         </a>
                     </p>
                 </div>
@@ -36,7 +41,7 @@
                         
                         <li><a href="https://www.facebook.com/groups/107554519297925">Facebook Group</a></li>
                         <li><a href="https://www.facebook.com/events/1308732084031208">Facebook Event</a></li>
-                        <li><a href="https://www.facebook.com/descultimedia">Facebook Page</a></li>
+                        <li><a href="https://www.facebook.com/desculti">Facebook Page</a></li>
                         <li><a href="https://www.youtube.com/@descultimedia/featured">YouTube</a></li>
                         <li><a href="https://romanianbaptist.church">Hickory Romanian Baptist Church</a></li>
                     </ul>

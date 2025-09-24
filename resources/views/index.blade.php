@@ -6,8 +6,8 @@
     <header class="s-header">
 
         <div class="header-logo">
-            <a class="site-logo" href="index.html">
-                <img src="/images/logo.png" alt="Homepage">
+            <a class="site-logo" href="/">
+                <img src="/images/logo.png?v={{ time() }}" alt="Homepage" style="max-width: 500px; height: auto; object-fit: contain; display: block;">
             </a>
         </div>
 

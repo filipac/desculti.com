@@ -59,7 +59,7 @@
     <div class="row row-y-center about-content mt-12">
         <div class="column">
             <h3 class="subhead" style="font-size: 2.5rem; font-weight: bold;">Desculți Homecoming 2024</h3>
-        <div class="grid grid-cols-1 lg:grid-cols-2 w-full gap-4 items-center justify-center">
+        <div class="grid grid-cols-1 lg:grid-cols-3 w-full gap-4 items-center justify-center">
             <div>
                 <x-video id="eOLemOiVU_c" title="Sesiunea 1 - Vineri" />
             </div>
@@ -86,7 +86,7 @@
      <div class="row row-y-center about-content mt-12" style="margin-top: 6rem;">
          <div class="column">
              <h3 class="subhead" style="font-size: 2.5rem; font-weight: bold;">Desculți Homecoming 2023</h3>
-        <div class="grid grid-cols-1 lg:grid-cols-2 w-full gap-4 items-center justify-center">
+        <div class="grid grid-cols-1 lg:grid-cols-3 w-full gap-4 items-center justify-center">
             <div>
                 <x-video id="nABu68SYjdI" title="Sesiunea 1 - Vineri" />
             </div>
