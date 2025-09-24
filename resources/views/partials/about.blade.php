@@ -14,7 +14,7 @@
             </p>
         </div>
 
-        <div class="column large-half medium-full">
+        <div class="column large-half medium-full" style="display: flex; align-items: center; justify-content: center;">
             <ul class="about-sched">
                 <li>
                     <h4>Sesiunea de Vineri</h4>
@@ -104,6 +104,32 @@
             </div>
             <div class="mt-0 lg:mt-4">
                 <x-video id="rjcBsxKUEDg" title="Sesiunea Specială" />
+            </div>
+        </div>
+        </div>
+    </div>
+
+    <div class="row row-y-center about-content mt-12" style="margin-top: 6rem;">
+        <div class="column">
+            <h3 class="subhead" style="font-size: 2.5rem; font-weight: bold;">Desculți Homecoming 2022</h3>
+        <div class="grid grid-cols-1 lg:grid-cols-3 w-full gap-4 items-center justify-center">
+            <div>
+                <x-video id="W09ksf5chsk" title="Sesiunea 1 - Vineri" />
+            </div>
+            <div class="mt-0 lg:mt-4">
+                <x-video id="muyCOxcfB_Q" title="Sesiunea 2 - Sâmbătă" />
+            </div>
+            <div class="mt-0 lg:mt-4">
+                <x-video id="5UzMtO0FKOo" title="Sesiunea 3 - Sâmbătă" />
+            </div>
+            <div class="mt-0 lg:mt-4">
+                <x-video id="gA3gEV7s59E" title="Sesiunea 4 - Sâmbătă" />
+            </div>
+            <div class="mt-0 lg:mt-4">
+                <x-video id="Pb_poWpvGpE" title="Sesiunea 5 - Duminică" />
+            </div>
+            <div class="mt-0 lg:mt-4">
+                <x-video id="sSxM7R4hTAI" title="Sesiunea Specială" />
             </div>
         </div>
         </div>
