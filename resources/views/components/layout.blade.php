@@ -9,7 +9,7 @@
                  <li class="{{ request()->routeIs('home') ? 'current' : '' }}">
                     <a href="{{ route('home') }}" title="Home">Home</a></li>
                 <li><a href="about.html" title="About">About</a></li>
-                <li><a href="events.html" title="Services">Events</a></li>
+                <li><a href="https://www.facebook.com/events/1308732084031208" title="Events" target="_blank" rel="noopener noreferrer">Events</a></li>
                 <li><a href="contact.html" title="Contact us">Contact</a></li>
                 <li class="{{ request()->routeIs('archive') ? 'current' : '' }}">
                     <a href="{{ route('archive') }}" title="Archive">Archive</a></li>
