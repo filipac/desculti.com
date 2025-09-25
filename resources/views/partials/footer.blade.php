@@ -10,7 +10,7 @@
                 </a>
             </div>  <!-- footer-logo -->
             <p>
-                „Desculți Homecoming” nu este un eveniment sau un program, ci o stare de spirit. O ai sau nu o ai. Asta este! Dacă nu o ai, mai există o șansă: să fii contaminat de cei care o au, adică să vii la Hickory și să petreci trei zile alături de cei de aici.
+                “Desculți Homecoming” its not a show its an experience.
             </p>
         </div>
         <div class="column large-half tab-full">

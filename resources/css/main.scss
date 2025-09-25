@@ -3168,7 +3168,7 @@ html.no-csstransitions .hero-content {
  * ## footer logo
  * ------------------------------------------------------------------- */
 .footer-logo {
-  margin-bottom: 2.8rem;
+  margin-bottom: .8rem;
 }
 
 .footer-logo a {
@@ -3178,6 +3178,12 @@ html.no-csstransitions .hero-content {
 .footer-logo img {
     width: auto;
   height: auto;
+}
+
+/* tagline under footer logo */
+.footer-logo + p {
+  margin-top: .4rem;
+  margin-left: 1.7rem;
 }
 
 /* -------------------------------------------------------------------
