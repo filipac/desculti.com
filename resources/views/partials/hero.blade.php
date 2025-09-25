@@ -8,13 +8,22 @@
     $title = $title ?? 'Worship is an act <br/> of war against the <br/> enemy of our hearts';
 @endphp
 
+    <header class="s-header"><div class="header-logo">
+            <a class="site-logo" href="/">
+                <img src="/images/logo.png?v={{ time() }}" alt="Homepage" style="max-width: 500px; height: auto; object-fit: contain; display: block;">
+            </a>
+            
+        </div>
+    </header>
     <section
     class="s-hero"
     data-parallax="scroll"
     data-image-src="{{url()->to('/images/hero/'.$random.'.jpg')}}"
     data-natural-width=3000 data-natural-height=2000
     data-position-y=center>
+    
 
+    
         <div class="hero-left-bar"></div>
 
         <div class="row hero-content" style="display: flex; align-items: center; min-height: 40vh;">

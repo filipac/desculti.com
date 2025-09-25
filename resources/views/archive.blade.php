@@ -10,7 +10,7 @@
   ])
 
   {{-- Page content --}}
-  <section class="s-content" style="padding:2rem 1rem;">
+  <section class="s-content" style="padding:2rem 1rem 6rem 1rem;">
     <div class="row">
       <div class="column large-full">
         <h2 class="subhead" style="font-size:2.5rem;font-weight:bold;margin-bottom:1rem;">
@@ -44,6 +44,31 @@
         </div>
       </div>
     </div>
+
+    <div class="row row-y-center about-content mt-12" style="margin-top: 6rem;">
+        <div class="column">
+            <h3 class="subhead" style="font-size: 2.5rem; font-weight: bold;">Desculți Homecoming 2022</h3>
+        <div class="grid grid-cols-1 lg:grid-cols-3 w-full gap-4 items-center justify-center">
+            <div>
+                <x-video id="W09ksf5chsk" title="Sesiunea 1 - Vineri" /></div>
+            <div class="mt-0 lg:mt-4">
+                <x-video id="muyCOxcfB_Q" title="Sesiunea 2 - Sâmbătă" /></div>
+            <div class="mt-0 lg:mt-4">
+                <x-video id="5UzMtO0FKOo" title="Sesiunea 3 - Sâmbătă" /></div>
+            <div class="mt-0 lg:mt-4">
+                <x-video id="gA3gEV7s59E" title="Sesiunea 4 - Sâmbătă" /></div>
+            <div class="mt-0 lg:mt-4">
+                <x-video id="Pb_poWpvGpE" title="Sesiunea 5 - Duminică" /></div>
+            <div class="mt-0 lg:mt-4">
+                <x-video id="sSxM7R4hTAI" title="Sesiunea Specială" /></div> 
+        </div>
+        </div>
+    </div>
+
   </section>
+
+  @include('partials.social')
+
+  
 </x-layout>
 
