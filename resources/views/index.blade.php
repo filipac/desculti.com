@@ -1,5 +1,6 @@
-<x-layout title="Desculți Homecoming 2025">
+<x-layout title="Home">
 
+{{-- @include('partials.hero', ['title' => 'Welcome to Desculti', 'minHeight' => '60vh'])--}}
 
     <!-- header
     ================================================== -->
@@ -9,16 +10,9 @@
             <a class="site-logo" href="/">
                 <img src="/images/logo.png?v={{ time() }}" alt="Homepage" style="max-width: 500px; height: auto; object-fit: contain; display: block;">
             </a>
+            
         </div>
-
-        <nav class="header-nav-wrap">
-{{--            <ul class="header-nav">--}}
-{{--                <li class="current"><a href="index.html" title="Home">Home</a></li>--}}
-{{--                <li><a href="about.html" title="About">About</a></li>--}}
-{{--                <li><a href="events.html" title="Services">Events</a></li>--}}
-{{--                <li><a href="contact.html" title="Contact us">Contact</a></li>--}}
-{{--            </ul>--}}
-        </nav>
+        <div class="row hero-content">
 
         <a class="header-menu-toggle" href="#0"><span>Menu</span></a>
 
@@ -38,5 +32,9 @@
 
 
     @include('partials.social')
+
+
+    
+  {{-- rest of home --}}
 
 </x-layout>

@@ -4,3 +4,41 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+.s-hero {
+    position: relative;
+    overflow: hidden;
+    color: #fff;
+    isolation: isolate;
+    background-size: cover;
+    background-position: center;
+  }
+  .s-hero::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: rgba(0,0,0,.35); 
+    z-index: -1;
+  }
+  
+.s-quote.archive-title {
+    margin: 2rem auto 1rem;     
+    padding: 1.5rem 1rem;
+    text-align: center;
+    color: #e5e7eb;             
+  }
+  
+  .s-quote.archive-title::before,
+  .s-quote.archive-title::after {
+    display: none !important;    
+  }
+  
+  .s-quote.archive-title blockquote {
+    max-width: 900px;
+    margin: 0 auto;
+    font-weight: 600;
+    line-height: 1.4;
+    font-size: clamp(1.6rem, 3vw, 2rem);
+  }
+  

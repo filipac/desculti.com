@@ -4,6 +4,17 @@
 
 @include('partials.head')
 
+<nav class="header-nav-wrap">
+        <ul class="header-nav">
+                 <li class="{{ request()->routeIs('home') ? 'current' : '' }}">
+                    <a href="{{ route('home') }}" title="Home">Home</a></li>
+                <li><a href="about.html" title="About">About</a></li>
+                <li><a href="events.html" title="Services">Events</a></li>
+                <li><a href="contact.html" title="Contact us">Contact</a></li>
+                <li class="{{ request()->routeIs('archive') ? 'current' : '' }}">
+                    <a href="{{ route('archive') }}" title="Archive">Archive</a></li>
+            </ul>
+        </nav>
 
 <body id="top">
 

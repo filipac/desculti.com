@@ -5,3 +5,5 @@ $(document).on("click", "#aboutTheEvent", function() {
     const el = document.querySelector("#about");
     el.scrollIntoView({ behavior: "smooth" });
 })
+
+import './hero-cycle';

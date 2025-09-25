@@ -3,6 +3,11 @@
     @php
         $random = rand(1, 6);
     @endphp
+
+    @php
+    $title = $title ?? 'Worship is an act <br/> of war against the <br/> enemy of our hearts';
+@endphp
+
     <section
     class="s-hero"
     data-parallax="scroll"
@@ -16,9 +21,7 @@
 
             <div class="column large-full hero-content__text" style="display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center;">
                 <h1>
-                    Worship is an act <br/>
-                    of war against the <br />
-                    enemy of our hearts
+                   {!! $title !!}
                 </h1>
 
                 <div class="hero-content__buttons" style="display: flex; flex-direction: column; gap: 15px; align-items: center; margin-top: 4rem;">
