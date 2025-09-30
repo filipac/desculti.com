@@ -19,7 +19,7 @@
                 <li>
                     <h4>Sesiunea de Vineri</h4>
                     <p>
-                        Vineri, 10 OCT 2025 - 6:00 PM <br>
+                        Vineri, 10 OCT 2025 - 7:00 PM <br>
                         1751 Wallace Dairy Rd, Hickory, NC 28602, USA
                     </p>
                 </li>

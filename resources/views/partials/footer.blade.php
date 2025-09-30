@@ -9,8 +9,6 @@
                     <img src="/images/logo.png?v={{ time() }}" alt="Homepage" style="max-width: 400px; height: auto; object-fit: contain; display: block;">
                 </a>
             </div>  <!-- footer-logo -->
-            <p>
-                “Desculți Homecoming” its not a show its an experience.
             </p>
         </div>
         <div class="column large-half tab-full">

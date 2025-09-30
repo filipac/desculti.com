@@ -10,7 +10,7 @@
 
     <header class="s-header"><div class="header-logo">
             <a class="site-logo" href="/">
-                <img src="/images/logo.png?v={{ time() }}" alt="Homepage" style="max-width: 500px; height: auto; object-fit: contain; display: block;">
+                <img src="/images/logo.png?v={{ time() }}" alt="Homepage" style="max-width: 500px; height: auto; object-fit: contain; display: block; margin-top: 10px;">
             </a>
             
         </div>
