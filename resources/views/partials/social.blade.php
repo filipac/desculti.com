@@ -28,7 +28,7 @@
                         <span class="social-list__icon social-list__icon--youtube"></span>
                         <span class="social-list__text">YouTube</span>
                     </a>
-                </li>
+                
             </ul>
         </div>
     </div> <!-- end social-content -->

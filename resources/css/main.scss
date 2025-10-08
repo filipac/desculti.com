@@ -1791,11 +1791,12 @@ input::-moz-focus-inner {
  *
  * ------------------------------------------------------------------- */
 .s-header {
-  z-index: 100;
+  z-index: 10000;
   height: 7.2rem;
   width: 100%;
+  padding-bottom: 2rem;
   position: absolute;
-  top: 2.8rem;
+  top: 0;
   left: 0;
 }
 
@@ -1874,23 +1875,30 @@ input::-moz-focus-inner {
 /* -------------------------------------------------------------------
  * ## mobile menu toggle
  * ------------------------------------------------------------------- */
+
 .header-menu-toggle {
-  z-index: 102;
-  display: none;
+  position: fixed;   
+  top: 1rem;
+  right: 32px;
+  z-index: 10001;     
+  display: block;        
   height: 4.2rem;
+  pointer-events: auto;
   width: 4.2rem;
   line-height: 4.2rem;
   font-family: "Lora", serif;
   font-size: 2.4rem;
   text-transform: uppercase;
   letter-spacing: .2rem;
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(255,255,255,.5);
   transition: all .3s;
-  position: absolute;
-  right: 32px;
-  top: 1rem;
 }
-
+.parallax-mirror,
+.s-hero::before,
+.hero-content::before {
+  pointer-events: none !important;
+  z-index: 0 !important;
+}
 .header-menu-toggle:hover,
 .header-menu-toggle:focus {
   color: #ffffff;
@@ -2008,6 +2016,7 @@ input::-moz-focus-inner {
     margin: 0 0 4rem 0;
     padding-left: 0;
     border-top: 1px solid rgba(255, 255, 255, 0.06);
+    text-align: right;
   }
 
   .header-nav-wrap .header-nav li {
@@ -2021,6 +2030,7 @@ input::-moz-focus-inner {
     padding: 18px 0;
     line-height: 20px;
     display: block;
+    text-align: right;
   }
 
   .header-menu-toggle {
@@ -2107,10 +2117,12 @@ input::-moz-focus-inner {
   -ms-flex-align: end;
   align-items: flex-end;
   position: relative;
+  pointer-events: none;
 }
 
 .hero-content__text {
   position: relative;
+  pointer-events: none;
 }
 
 .hero-content h1 {
@@ -2130,6 +2142,35 @@ input::-moz-focus-inner {
   content: none !important;
 }
 
+@media screen and (max-width: 1100px) and (min-width: 701px) {
+  .hero-content h1 {
+    font-size: 5.6rem;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  .hero-content h1 {
+    margin-right: 0;
+  }
+
+  .hero-content__buttons {
+    position: static;
+    bottom: auto;
+    right: auto;
+    left: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    margin-top: 4rem;
+  }
+
+  .hero-content__buttons .btn,
+  .hero-content__buttons .btn-live {
+    width: min(90vw, 320px);
+  }
+}
+
 /* -------------------------------------------------------------------
  * ## hero content buttons
  * ------------------------------------------------------------------- */
@@ -2137,6 +2178,7 @@ input::-moz-focus-inner {
   position: absolute;
   right: 3rem;
   bottom: 3.2rem;
+  pointer-events: auto;
 }
 
 .hero-content__buttons .btn {

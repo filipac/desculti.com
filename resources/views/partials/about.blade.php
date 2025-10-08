@@ -17,37 +17,37 @@
         <div class="column large-half medium-full" style="display: flex; align-items: center; justify-content: center;">
             <ul class="about-sched">
                 <li>
-                    <h4>Sesiunea de Vineri</h4>
+                    <h4>Vineri - Sesiunea I</h4>
                     <p>
                         Vineri, 10 OCT 2025 - 7:00 PM <br>
                         1751 Wallace Dairy Rd, Hickory, NC 28602, USA
                     </p>
                 </li>
                 <li>
-                    <h4>Sâmbătă - Sesiunea I</h4>
+                    <h4>Sâmbătă - Sesiunea II</h4>
                     <p>
                         Sambata, 11 OCT 2025 - 10:00 AM <br>
                         1751 Wallace Dairy Rd, Hickory, NC 28602, USA
                     </p>
                 </li>
                 <li>
-                    <h4>Sâmbătă - Sesiunea II</h4>
+                    <h4>Sâmbătă - Sesiunea III</h4>
                     <p>
-                        Sambata, 11 OCT 2025 - 13:30 PM <br>
+                        Sambata, 11 OCT 2025 - 15:00 PM <br>
                         1751 Wallace Dairy Rd, Hickory, NC 28602, USA
                     </p>
                 </li>
                 <li>
-                    <h4>Sâmbătă - Sesiunea III</h4>
+                    <h4>Sâmbătă - Sesiunea IV</h4>
                     <p>
-                        Sambata, 11 OCT 2025 - 4:00 PM <br>
+                        Sambata, 11 OCT 2025 - 6:00 PM <br>
                         1751 Wallace Dairy Rd, Hickory, NC 28602, USA
                     </p>
                 </li>
                 <li>
                     <h4>Duminică - Serviciu Divin</h4>
                     <p>
-                        Duminica, 12 OCT 2025 - 10:00 AM & 6:00 PM <br>
+                        Duminica, 12 OCT 2025 - 10:00 AM<br>
                         1751 Wallace Dairy Rd, Hickory, NC 28602, USA
                     </p>
                 </li>

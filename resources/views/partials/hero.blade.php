@@ -6,15 +6,8 @@
 
     @php
     $title = $title ?? 'Worship is an act <br/> of war against the <br/> enemy of our hearts';
+    
 @endphp
-
-    <header class="s-header"><div class="header-logo">
-            <a class="site-logo" href="/">
-                <img src="/images/logo.png?v={{ time() }}" alt="Homepage" style="max-width: 260px; height: auto; object-fit: contain; display: block; margin-top: 10px;">
-            </a>
-            
-        </div>
-    </header>
     <section
     class="s-hero"
     data-parallax="scroll"
@@ -26,18 +19,19 @@
     
         <div class="hero-left-bar"></div>
 
-        <div class="row hero-content" style="display: flex; align-items: center; min-height: 40vh;">
+        <div class="row hero-content" style="display: flex; align-items: center; min-height: 10vh;">
 
             <div class="column large-full hero-content__text" style="display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center;">
                 <h1>
                    {!! $title !!}
                 </h1>
 
-                <div class="hero-content__buttons" style="display: flex; flex-direction: column; gap: 15px; align-items: center; margin-top: 4rem;">
+                <div class="hero-content__buttons" style="display: flex; flex-direction: column; gap: 8px; align-items: center; margin-top: 0.1rem;">
                     <a href="https://www.facebook.com/desculti" target="_blank" class="btn btn--stroke" style="width: 300px; font-size: 1.2rem; padding: 15px 20px; display: flex; align-items: center; justify-content: center;">Facebook Page</a>
                     <a href="https://www.facebook.com/groups/107554519297925" target="_blank" class="btn btn--stroke" style="width: 300px; font-size: 1.2rem; padding: 15px 20px; display: flex; align-items: center; justify-content: center;">Facebook Group</a>
                     <a href="https://www.facebook.com/events/1308732084031208" target="_blank" class="btn btn--stroke" style="width: 300px; font-size: 1.2rem; padding: 15px 20px; display: flex; align-items: center; justify-content: center;">Facebook Event</a>
                     <a href="https://www.youtube.com/@descultimedia/featured" target="_blank" class="btn btn--stroke" style="width: 300px; font-size: 1.2rem; padding: 15px 20px; display: flex; align-items: center; justify-content: center;">Desculți YouTube</a>
+                    <a href="https://www.youtube.com/@descultimedia/featured" target="_blank" class="btn-live" style="width: 300px; font-size: 1.2rem; padding: 15px 20px; display: flex; align-items: center; justify-content: center;">Live</a>
                 </div>
             </div> <!-- end hero-content__text -->
 
@@ -54,6 +48,7 @@
             <li>
                 <a href="https://www.youtube.com/@descultimedia/featured" title="">YouTube</a>
             </li>
+            
         </ul> <!-- end hero-social -->
 
         <div class="hero-scroll">
