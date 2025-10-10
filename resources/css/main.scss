@@ -103,6 +103,13 @@ html {
 
 }
 
+@media screen and (max-width:375px) {
+  html {
+    font-size: 9px;
+  }
+
+}
+
 html,
 body {
   height: 100%;
@@ -119,6 +126,13 @@ body {
   margin: 0;
   padding: 0;
   position: relative;
+}
+
+@media screen and (max-width:600px) {
+  body {
+    line-height: 1.9;
+  }
+
 }
 
 /* -------------------------------------------------------------------
@@ -1069,6 +1083,41 @@ button::-moz-focus-inner,
 input::-moz-focus-inner {
   border: 0;
   padding: 0;
+}
+
+/* -------------------------------------------------------------------
+ * responsive:
+ * buttons
+ * ------------------------------------------------------------------- */
+@media screen and (max-width:600px) {
+  .btn,
+  button,
+  input[type="submit"],
+  input[type="reset"],
+  input[type="button"] {
+    height: 5.6rem;
+    line-height: 5.2rem;
+    padding: 0 2.4rem;
+    font-size: 1rem;
+    letter-spacing: .4rem;
+  }
+
+  .hero-content__buttons .btn {
+    margin-bottom: 1.2rem;
+  }
+
+}
+
+@media screen and (max-width:400px) {
+  .btn,
+  button,
+  input[type="submit"],
+  input[type="reset"],
+  input[type="button"] {
+    width: 100%;
+    margin-right: 0;
+  }
+
 }
 
 
@@ -2517,6 +2566,13 @@ html.no-csstransitions .hero-content {
 }
 
 @media screen and (max-width:600px) {
+  .s-hero {
+    min-height: 100vh;
+    background-size: cover !important;
+    background-position: center center !important;
+    background-attachment: scroll !important;
+  }
+
   .hero-content {
     width: 80%;
     padding-top: 20vh;
@@ -2544,6 +2600,31 @@ html.no-csstransitions .hero-content {
     right: auto;
     left: 0;
     bottom: 6.4rem;
+  }
+
+}
+
+@media screen and (max-width:400px) {
+  .s-hero {
+    min-height: 100vh;
+  }
+
+  .hero-content h1 {
+    font-size: 3.6rem;
+    line-height: 1.3;
+  }
+
+  .hero-content {
+    width: 90%;
+    padding-top: 18vh;
+    padding-bottom: 8vh;
+  }
+
+}
+
+@media screen and (max-width:375px) {
+  .hero-content h1 {
+    font-size: 3.2rem;
   }
 
 }
@@ -2637,6 +2718,11 @@ html.no-csstransitions .hero-content {
 }
 
 @media screen and (max-width:600px) {
+  .s-about {
+    padding-top: 12rem;
+    padding-bottom: 12rem;
+  }
+
   .about-content .column:first-child {
     padding-right: 10px;
   }
@@ -2645,9 +2731,28 @@ html.no-csstransitions .hero-content {
     padding-left: 10px;
   }
 
+  .about-sched h4 {
+    font-size: 1.4rem;
+    letter-spacing: .3rem;
+  }
+
+  .about-sched li {
+    padding-top: 2.4rem;
+    padding-bottom: 2.4rem;
+  }
+
+  .about-sched p {
+    line-height: 1.9;
+  }
+
 }
 
 @media screen and (max-width:400px) {
+  .s-about {
+    padding-top: 10rem;
+    padding-bottom: 10rem;
+  }
+
   .about-content .column:first-child {
     padding-right: 0;
   }
