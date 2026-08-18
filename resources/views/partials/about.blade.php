@@ -5,7 +5,7 @@
     <div class="row row-y-center about-content">
 
         <div class="column large-half medium-full">
-            <h3 class="subhead" style="font-size: 3rem; font-weight: bold;">Bine ați venit la<br/>Desculți Homecoming 2025</h3>
+            <h3 class="subhead" style="font-size: 3rem; font-weight: bold;">Bine ați venit la<br/>Desculți Homecoming 2026</h3>
             <p class="lead">
                 „Desculți Homecoming" suntem noi, un grup de evanghelici români din diaspora și din România, care ne adunăm pentru părtășie creștină. Ne întâlnim „în spațiul virtual" prin rugăciune, împărtășirea experiențelor spirituale, meditații și prin sprijin oferit celor aflați în încercări speciale. 
             </p>
@@ -19,35 +19,35 @@
                 <li>
                     <h4>Vineri - Sesiunea I</h4>
                     <p>
-                        Vineri, 10 OCT 2025 - 7:00 PM <br>
+                        Vineri, 9 OCT 2026 - 7:00 PM <br>
                         1751 Wallace Dairy Rd, Hickory, NC 28602, USA
                     </p>
                 </li>
                 <li>
                     <h4>Sâmbătă - Sesiunea II</h4>
                     <p>
-                        Sambata, 11 OCT 2025 - 10:00 AM <br>
+                        Sambata, 10 OCT 2026 - 10:00 AM <br>
                         1751 Wallace Dairy Rd, Hickory, NC 28602, USA
                     </p>
                 </li>
                 <li>
                     <h4>Sâmbătă - Sesiunea III</h4>
                     <p>
-                        Sambata, 11 OCT 2025 - 15:00 PM <br>
+                        Sambata, 10 OCT 2026 - 15:00 PM <br>
                         1751 Wallace Dairy Rd, Hickory, NC 28602, USA
                     </p>
                 </li>
                 <li>
                     <h4>Sâmbătă - Sesiunea IV</h4>
                     <p>
-                        Sambata, 11 OCT 2025 - 6:00 PM <br>
+                        Sambata, 10 OCT 2026 - 6:00 PM <br>
                         1751 Wallace Dairy Rd, Hickory, NC 28602, USA
                     </p>
                 </li>
                 <li>
                     <h4>Duminică - Serviciu Divin</h4>
                     <p>
-                        Duminica, 12 OCT 2025 - 10:00 AM<br>
+                        Duminica, 11 OCT 2026 - 10:00 AM<br>
                         1751 Wallace Dairy Rd, Hickory, NC 28602, USA
                     </p>
                 </li>
