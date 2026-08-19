@@ -12,7 +12,7 @@
                     </a>
                 </li>
                 <li class="social-list__item">
-                    <a href="https://www.facebook.com/events/1308732084031208" title="">
+                    <a href="https://www.facebook.com/events/1027875683205755" title="">
                         <span class="social-list__icon social-list__icon--facebook"></span>
                         <span class="social-list__text">Event</span>
                     </a>

@@ -29,7 +29,7 @@
                 <div class="hero-content__buttons" style="display: flex; flex-direction: column; gap: 8px; align-items: center; margin-top: 0.1rem;">
                     <a href="https://www.facebook.com/desculti" target="_blank" class="btn btn--stroke" style="width: 300px; font-size: 1.2rem; padding: 15px 20px; display: flex; align-items: center; justify-content: center;">Facebook Page</a>
                     <a href="https://www.facebook.com/groups/107554519297925" target="_blank" class="btn btn--stroke" style="width: 300px; font-size: 1.2rem; padding: 15px 20px; display: flex; align-items: center; justify-content: center;">Facebook Group</a>
-                    <a href="https://www.facebook.com/events/1308732084031208" target="_blank" class="btn btn--stroke" style="width: 300px; font-size: 1.2rem; padding: 15px 20px; display: flex; align-items: center; justify-content: center;">Facebook Event</a>
+                    <a href="https://www.facebook.com/events/1027875683205755" target="_blank" class="btn btn--stroke" style="width: 300px; font-size: 1.2rem; padding: 15px 20px; display: flex; align-items: center; justify-content: center;">Facebook Event</a>
                     <a href="https://www.youtube.com/@descultimedia/featured" target="_blank" class="btn btn--stroke" style="width: 300px; font-size: 1.2rem; padding: 15px 20px; display: flex; align-items: center; justify-content: center;">Desculți YouTube</a>
                     <a href="https://www.youtube.com/@descultimedia/featured" target="_blank" class="btn-live" style="width: 300px; font-size: 1.2rem; padding: 15px 20px; display: flex; align-items: center; justify-content: center;">Live</a>
                 </div>

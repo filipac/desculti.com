@@ -14,6 +14,23 @@
     <div class="row">
       <div class="column large-full">
         <h2 class="subhead" style="font-size:2.5rem;font-weight:bold;margin-bottom:1rem;">
+          Desculți Homecoming 2025
+        </h2>
+
+        <div class="grid grid-cols-1 lg:grid-cols-3 w-full gap-4 items-start">
+          <div><x-video id="s7_D9zk_fhQ" title="Desculți Homecoming 2025 Sesiunea I" /></div>
+          <div class="mt-0 lg:mt-4"><x-video id="6nZoFj83Es4" title="Desculti Homecoming 2025 Sesiunea II" /></div>
+          <div class="mt-0 lg:mt-4"><x-video id="SH24AudYZ2g" title="Desculti Homecoming 2025 Sesiunea III" /></div>
+          <div class="mt-0 lg:mt-4"><x-video id="_bPHfa2bSHI" title="Desculti Homecoming 2025 – Sesiunea IV | Închinare și Părtășie Live | Hickory NC" /></div>
+          <div class="mt-0 lg:mt-4"><x-video id="tB6FxTHXBDo" title="Desculti Homecoming 2025 Sesiunea V" /></div>
+          <div class="mt-0 lg:mt-4"><x-video id="LAQcV4ZPRuw" title="Desculți Homecoming 2025 - Sesiunea Special" /></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="row" style="margin-top:3rem;">
+      <div class="column large-full">
+        <h2 class="subhead" style="font-size:2.5rem;font-weight:bold;margin-bottom:1rem;">
           Desculți Homecoming 2024
         </h2>
 
