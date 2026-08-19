@@ -2,11 +2,11 @@
 
 
 <x-layout title="Desculti Archive">
-  {{-- Hero (nudged title up by 40px) --}}
   @include('partials.hero', [
-    'title' => '<span style="position:relative;top:-100px;">Desculti Archive</span>',
-    'minHeight' => '40vh',
-    'showButtons' => true
+    'title' => 'Desculti Archive',
+    'minHeight' => '28vh',
+    'showButtons' => false,
+    'compact' => true,
   ])
 
   {{-- Page content --}}

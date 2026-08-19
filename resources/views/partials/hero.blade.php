@@ -6,10 +6,12 @@
 
     @php
     $title = $title ?? 'Worship is an act <br/> of war against the <br/> enemy of our hearts';
-    
+    $showButtons = $showButtons ?? true;
+    $compact = $compact ?? false;
 @endphp
     <section
-    class="s-hero"
+    class="s-hero{{ $compact ? ' s-hero--compact' : '' }}"
+    @if($compact) style="height: 28vh; min-height: 22rem;" @endif
     data-parallax="scroll"
     data-image-src="{{url()->to('/images/hero/'.$random.'.jpg')}}"
     data-natural-width=3000 data-natural-height=2000
@@ -26,6 +28,7 @@
                    {!! $title !!}
                 </h1>
 
+                @if($showButtons)
                 <div class="hero-content__buttons" style="display: flex; flex-direction: column; gap: 8px; align-items: center; margin-top: 0.1rem;">
                     <a href="https://www.facebook.com/desculti" target="_blank" class="btn btn--stroke" style="width: 300px; font-size: 1.2rem; padding: 15px 20px; display: flex; align-items: center; justify-content: center;">Facebook Page</a>
                     <a href="https://www.facebook.com/groups/107554519297925" target="_blank" class="btn btn--stroke" style="width: 300px; font-size: 1.2rem; padding: 15px 20px; display: flex; align-items: center; justify-content: center;">Facebook Group</a>
@@ -33,6 +36,7 @@
                     <a href="https://www.youtube.com/@descultimedia/featured" target="_blank" class="btn btn--stroke" style="width: 300px; font-size: 1.2rem; padding: 15px 20px; display: flex; align-items: center; justify-content: center;">Desculți YouTube</a>
                     <a href="https://www.youtube.com/@descultimedia/featured" target="_blank" class="btn-live" style="width: 300px; font-size: 1.2rem; padding: 15px 20px; display: flex; align-items: center; justify-content: center;">Live</a>
                 </div>
+                @endif
             </div> <!-- end hero-content__text -->
 
         </div> <!-- end hero-content -->
@@ -51,10 +55,12 @@
             
         </ul> <!-- end hero-social -->
 
+        @unless($compact)
         <div class="hero-scroll">
             <a href="#about" class="scroll-link smoothscroll">
                 Scroll For More
             </a>
         </div> <!-- end hero-scroll -->
+        @endunless
 
     </section> <!-- end s-hero -->
