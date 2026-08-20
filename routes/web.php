@@ -9,3 +9,7 @@ Route::get('/', function () {
 Route::get('/archive', function () {
     return view('archive');
 })->name('archive');
+
+Route::get('/giving', function () {
+    return view('giving');
+})->name('giving');

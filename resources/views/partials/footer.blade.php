@@ -36,12 +36,13 @@
                     <h4 class="h6">Quick Links</h4>
                     <ul class="footer-list">
                         <li><a href="/">Home</a></li>
+                        <li><a href="{{ route('giving') }}">Giving</a></li>
                         
                         <li><a href="https://www.facebook.com/groups/107554519297925">Facebook Group</a></li>
                         <li><a href="https://www.facebook.com/events/1027875683205755">Facebook Event</a></li>
                         <li><a href="https://www.facebook.com/desculti">Facebook Page</a></li>
                         <li><a href="https://www.youtube.com/@descultimedia/featured">YouTube</a></li>
-                        <li><a href="https://romanianbaptist.church">Hickory Romanian Baptist Church</a></li>
+                        <li><a href="https://hrb.church">Hickory Romanian Baptist Church</a></li>
     
                     </ul>
                 </div>

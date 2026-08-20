@@ -26,6 +26,9 @@
             <li class="{{ request()->routeIs('archive') ? 'current' : '' }}">
                 <a href="{{ route('archive') }}" title="Archive">Archive</a>
             </li>
+            <li class="{{ request()->routeIs('giving') ? 'current' : '' }}">
+                <a href="{{ route('giving') }}" title="Giving">Giving</a>
+            </li>
         </ul>
     </nav>
 
